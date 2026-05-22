@@ -1,2 +1,2 @@
-# CTL_Assay
-This was created to assist CTL Assay analysis
+# Kinetic Signal Analysis
+This was created to assist with Kinetic Signal Analysis
